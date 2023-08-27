@@ -1,2 +1,2 @@
 # project
-this is a basic drawing project.
+this is a basic drawing project. Try it.
